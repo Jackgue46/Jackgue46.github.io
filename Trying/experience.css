@@ -10,16 +10,29 @@ body {
     border-bottom: 1px solid #e5e7eb;
 }
 
-.resume-item:last-child {
-    border-bottom: none;
+h1 {
+    font-size: 65px;
 }
 
-.resume-item h3 {
-    color: #2563eb;
-    margin-bottom: 5px;
+h2{
+    font-size: 40px;
 }
 
-.resume-item ul {
-    padding-left: 22px;
-    margin-top: 12px;
+img {
+    width: 100%;
+    max-width: 400px;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
+.wrapper {
+    padding: 0 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 5rem;
+}
+.into {
+    flex: 1;
 }

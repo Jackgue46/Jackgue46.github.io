@@ -1,14 +1,9 @@
 html {
     background-color: azure;
+
 }
 
-.contact {
-    text-align: center;
+h1{ 
+    font-size: 65px;
+    color: black;
 }
-
-.site-footer {
-    padding: 25px;
-    text-align: center;
-    color: #6b7280;
-}
-
