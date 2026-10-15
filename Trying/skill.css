@@ -1,3 +1,11 @@
+html {
+  background-color: gray;
+}
+
+h1 {
+    font-size: 65px;
+}
+
 .skills-list {
     display: flex;
     flex-wrap: wrap;
@@ -6,8 +14,8 @@
 }
 
 .skills-list li {
-    background: #eff6ff;
-    color: #1d4ed8;
+    background: green;
+    color: azure;
     padding: 8px 16px;
     border-radius: 20px;
 }
