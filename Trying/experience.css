@@ -1,0 +1,25 @@
+html{
+    background-color: azure;
+}
+
+body {
+    color: burlywood;
+}
+.resume-item {
+    padding: 20px 0;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.resume-item:last-child {
+    border-bottom: none;
+}
+
+.resume-item h3 {
+    color: #2563eb;
+    margin-bottom: 5px;
+}
+
+.resume-item ul {
+    padding-left: 22px;
+    margin-top: 12px;
+}

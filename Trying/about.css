@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
     scroll-padding-top: 80px;
+    background-color: azure;
 }
 
 body {
@@ -13,4 +14,12 @@ body {
 image {
     position: relative;
     align-items: center;
+}
+
+h3 {
+    color: black;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
