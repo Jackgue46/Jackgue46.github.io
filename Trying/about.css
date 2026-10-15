@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 80px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2;
+    color: beige;
+    background-color: grey;
+}
+
+image {
+    position: relative;
+    align-items: center;
+}
